@@ -1,0 +1,8 @@
+1/3/2019
+*Mission was made.
+
+Know Bugs - 
+
+1. Acex can added on the beach is not on the event repo.
+2. For some reason, One of the driver units did not spawned with his designeted gear.
+3. forgot to eddit damage resistance and Spawning method.
