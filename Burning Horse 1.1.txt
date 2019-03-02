@@ -1,0 +1,15 @@
+1/3/2019
+*Can was removed.
+*Driver without his gear was fixed. he was not marked as a driver.
+*Dmgresist. Set to 3.
+*Respawn set to 2 (3 lives total)
+*Respawn type/Time Individual/Instant
+*Clime changed to become more shitty as the mission progress.
+*Vanila Csat cars for players aslong with bots.
+*Made God invisible and imune to damage
+
+Know Bugs - 
+
+1. Acex can added on the beach is not on the event repo.
+2. For some reason, One of the driver units did not spawned with his designeted gear.
+3. forgot to eddit damage resistance and Spawning method.
